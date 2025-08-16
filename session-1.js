@@ -35,6 +35,7 @@ let multiplicar = a*b
 console.log('Multiplicar:', multiplicar)
 
 //Dividir 
-let dividir = a/b
+let dividir = a/b >= 18
+
 
 
